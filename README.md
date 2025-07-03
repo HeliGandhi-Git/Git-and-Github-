@@ -30,7 +30,11 @@ STEPS:-
 CLONE AND STATUS:-
 
 * clone: cloning or copy a repository on our local machine/laptop/pc.
-      -> git clone <-some link->
+      -> git clone <-some link or your github repo/project  link->  (use this command in vscode terminal to get your github              repo files/folders in your gitdemo of vscode )
+      -> use cd <folder name > : to go inside your folder (in terminal)
+      -> ls : to list files in that folder.
+      -> ls -a : shows hidden files also.
+  
 * status: displays the state of code.
-      -> git status
+      -> git status (in vscode terminal) 
 
