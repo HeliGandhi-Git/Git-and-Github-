@@ -48,7 +48,4 @@ CLONE AND STATUS:-
 4. unmodified : unchanged
 
 
-=======
-      -> git status (in terminal)
->>>>>>> 80a33a0 (Add new paragraph)
 
